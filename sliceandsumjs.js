@@ -1,4 +1,4 @@
-var mdnum = prompt("enter a multi-digit numer : ")   // grt multi-digit numbers
+var mdnum = prompt("enter a multi-digit numer : ")   // get multi-digit numbers
 var mdna  = []    // multi-digit number array
 var smn   = 0     // sum of multi-digit number slices
 var mdnl  = (mdnum.length) - 1
