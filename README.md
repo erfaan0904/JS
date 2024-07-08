@@ -1,2 +1,2 @@
 # JS
-I upload Java Script in this repository
+I upload Java Script codes in this repository
